@@ -4,4 +4,4 @@ This is a set of codes for analysing the data from the Gravity machine [Krishnam
  -- 
 2) PIV with micron sized beads suspended in the fluid
 
-These codes were used in a recent preprint: R. Chajwa et al. Hidden comet-tails of Marine snow Impede Ocean based Carbon Sequestration.
+These codes were used in a recent preprint: R. Chajwa et al. Hidden comet-tails of Marine snow Impede Ocean based Carbon Sequestration (2023) https://doi.org/10.48550/arXiv.2310.01982 
