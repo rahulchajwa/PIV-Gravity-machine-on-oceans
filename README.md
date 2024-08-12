@@ -1,6 +1,9 @@
 # Particle Imaging Velocimetry in Noisy Environments
 This is a set of codes for analysing the data from the Gravity machine [Krishnamurthy, D., Li, H., Benoit du Rey, F. et al. Scale-free vertical tracking microscopy. Nat Methods 17, 1040–1051 (2020). https://doi.org/10.1038/s41592-020-0924-7] on a ship. The low frequency noise is eliminated using a two-axis gimbal. For an example dataset see: Chajwa, Rahul et al. (2024). Hidden comet-tails of marine snow impede ocean-based carbon sequestration [Dataset]. Dryad. https://doi.org/10.5061/dryad.v15dv4253
 
+run automating_PIV_folders.m to create a copy of the data for analysis as a directory with a chose file structure
+run transfer_tracks.m to copy the .csv file of the GM tracks to these folders
+
 Raw_Sedimentation_PIV_data directory contains various folders with folder name indicating dates of data collection. Each of these folder further consists of subfolders with GM data for individual aggregate tracks. These subfolders contains the following: 
 
 >> input_raw contains raw images from the GM acquisition. 
