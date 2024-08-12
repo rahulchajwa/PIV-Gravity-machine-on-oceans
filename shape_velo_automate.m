@@ -1,3 +1,4 @@
+%%this code sequentially goes through the data and prompts the user to select the region of interest (red box) for shape analysis
 currentDir = pwd; 
 D = dir; %list of subfolders
  l =1;
