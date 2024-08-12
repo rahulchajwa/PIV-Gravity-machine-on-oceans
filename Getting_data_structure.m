@@ -1,4 +1,4 @@
-%% Run this script in the data source folder
+%% Run this script in the data source folder before running the PIV automation pipeline
 
 clearvars; currentDir = pwd;
 D = dir;
