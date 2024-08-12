@@ -16,6 +16,6 @@ The code shape_velo_automate gives the (size, structure, velocity) map of the da
 
 For PIV there are two parts to the code:
 1) Image registration to remove high-frequency noise
-2) PIV batch processing
+2) PIV batch processing: download the PIVlab from: https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui and paste the automating_PIVlab.m and Getting_data_structure.m in PIVlab folder. Run Getting_data_structure.m followed by automating_PIVlab.m. 
 
 These codes were used in a recent preprint: R. Chajwa et al. Hidden comet-tails of Marine snow Impede Ocean based Carbon Sequestration (2023) https://doi.org/10.48550/arXiv.2310.01982 
