@@ -28,6 +28,12 @@ registered output for PIV analysis
 
 Note that after image registration the particle appears completely tethered.
 
-2) PIV batch processing: download the PIVlab from: https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui and paste the automating_PIVlab.m and Getting_data_structure.m in PIVlab folder. Run Getting_data_structure.m followed by automating_PIVlab.m. 
+2) PIV batch processing: download the PIVlab from: https://www.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui and paste the automating_PIVlab.m and Getting_data_structure.m in PIVlab folder. Run Getting_data_structure.m followed by automating_PIVlab.m.
+
+The flow field from the above image (the yellow region is zero velocity, with white streamlines)
+![flow_field](https://github.com/user-attachments/assets/177beb40-6774-4842-a614-4dbc2df55b51)
+
+
+
 
 These codes were used in a recent preprint: R. Chajwa et al. Hidden comet-tails of Marine snow Impede Ocean based Carbon Sequestration (2023) https://doi.org/10.48550/arXiv.2310.01982 
